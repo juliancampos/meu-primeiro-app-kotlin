@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Primeiro App</string>
+    <string name="hello_world">Olá Mundo !!!</string>
+    <string name="app_description">Este é o meu primeiro app com o objetivo de trabalhar com internacionalização de idiomas na plataforma Android utilizando a linguagem de programação Kotlin</string>
+</resources>

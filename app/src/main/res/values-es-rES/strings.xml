@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera App</string>
+    <string name="hello_world">Ola Mundo !</string>
+    <string name="app_description">Esta es mi primera app con el objetivo de trabajar con la internacionalización de lenguajes en la plataforma Android utilizando el lenguaje de programación Kotlin</string>
+</resources>
